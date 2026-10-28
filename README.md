@@ -211,19 +211,6 @@ AWS Security Best Practices
 * Review Terraform plans before applying changes.
 * Monitor AWS billing and resource usage, especially when working with a Free Tier account.
 
-Learning Outcomes
-
-This project provides practical experience with:
-
-* AWS resource automation using Python and Boto3.
-* EC2 resource discovery and reporting.
-* Terraform configuration, state management, variables, and outputs.
-* IAM permissions and secure credential handling.
-* Unit testing and mocking.
-* Jenkins pipeline creation and CI troubleshooting.
-* Git and GitHub version control.
-* Cloud infrastructure security and cost awareness.
-
 Future Enhancements
 
 Potential improvements include:
@@ -238,13 +225,4 @@ Potential improvements include:
 These enhancements should be added and verified as they are implemented.
 
 Author
-
-Ramesh Srinivasan
-
-Cloud Engineering | AWS | Python | Terraform | Jenkins | CI/CD
-
-GitHub: https://github.com/sramesh-dot/InfraAutomationAWS
-
-⸻
-
-Built as a hands-on cloud engineering project to practice infrastructure automation, Infrastructure as Code, testing, and CI/CD fundamentals.
+Ramesh S
